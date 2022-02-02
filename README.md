@@ -1,2 +1,1 @@
-# lecture_merge_conflicts
-[EDITION FROM THE SECOND DEVELOPER] Demo repository to demonstrate how to address merge with conflicts in GitHub
+(I modified this line to simulate a conflict) Demo repository to demonstrate how to address merge with conflicts in GitHub
